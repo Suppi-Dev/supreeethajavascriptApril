@@ -1,2 +1,2 @@
-# supreeethajavascriptApril
+# supreeethajs
 JS
